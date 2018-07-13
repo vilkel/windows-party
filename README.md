@@ -18,6 +18,7 @@ If you found this task it means we are looking for you!
 - Get servers list from http://playground.tesonet.lt/v1/servers. Add header to request: `Authorization: Bearer <token>`
 - Use MVVM framework, we like Caliburn.Micro, but maybe you know better?
 - Use WPF, C# .NET 4.6.1 or later
+- Implement logging in your app
 
 ## Few tips
 - Follow modern WPF apps development best practices:
@@ -25,7 +26,6 @@ If you found this task it means we are looking for you!
   - Use IOC container
   - Don't lock UI
 - Don't reinvent the wheel! If you find a nice library/framework that can make your life easier use it!
-- Implement logging in your app
 - Maybe You have an idea how it should interact with users? Do it! Its on you!
 - Have fun!
 
